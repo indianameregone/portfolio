@@ -51,6 +51,7 @@ header h2:hover,
     height: 45vh;
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 .banner::before{
     content: '';
